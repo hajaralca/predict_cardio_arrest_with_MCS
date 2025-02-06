@@ -1,0 +1,15 @@
+# Core Dependencies
+numpy==1.21.6          # Numerical operations
+scipy==1.7.3           # Scientific computing
+pandas==1.3.5          # Data manipulation
+matplotlib==3.5.3      # Visualization
+seaborn==0.11.2        # Statistical visualizations
+scikit-learn==1.0.2    # Logistic regression & machine learning
+tqdm==4.64.1           # Progress bars for long simulations
+pyyaml==6.0            # Configuration file handling
+joblib==1.1.0          # Model serialization
+click==8.1.3           # Command-line interface creation
+
+# Testing & Development
+pytest==7.1.3          # Testing framework
+flake8==5.0.4          # Code linting
